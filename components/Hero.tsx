@@ -38,8 +38,9 @@ const Hero = ({ mainData }: HeroProps) => {
                         </p>
                     </div>
                     <h1 className="text-4xl md:text-6xl font-bold relative">
-                        I&apos;m {name}
+                        I&apos;m {name.split(' ')[0]}
                     </h1>
+
                     <div className="flex flex-row items-start md:items-center gap-1.5">
                         <h2 className="text-lg md:text-2xl">
                             I am into

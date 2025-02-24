@@ -1,13 +1,14 @@
 {
   "main": {
-    "name": "Jhon Doe",
+    "name": "Shubham Lingayat",
     "shortDesc": "I focus on developing user-friendly web applications that meet the client's requirements, with attention to detail, scalability, and performance.",
     "titles": [
       "Frontend Development",
       "Backend Development",
-      "App Development"
+      "Fullstack Developer",
+      "MERN stack Developer"
     ],
-    "heroImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "heroImage": "https://res.cloudinary.com/dgkm1wmbw/image/upload/v1739187676/intro-section-illustration_lxsuw5.png",
     "techStackImages": [
       "https://img.icons8.com/color/144/000000/material-ui.png",
       "https://img.icons8.com/color/144/000000/html-5--v1.png",
@@ -19,38 +20,168 @@
     "aboutImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
     "aboutImageCaption": "< I build stuff 🚀/>",
     "title": "Full Stack Developer",
-    "about": "I am a Full-Stack developer based in Pune, India. I'm an Information Technology undergraduate from SPPU, and my journey in web development began during my first year of college. I'm passionate about creating beautiful, functional, and user-friendly websites and applications, and I'm constantly pushing myself to learn and grow as a developer. Love building full-stack clones and side projects.",
-    "callUrl": "",
+    "about": "Hello there! I'm Shubham Lingayat, working as an Executive Developer at GladOwl Web Solutions Pvt. Ltd. I had completed my engineering by specializing in Artificial Intelligence and Data Science from Zeal College Of Engineering and Research Pune, with a burning passion for software development",
+    "callUrl": "tel:+919823960449",
     "resumeUrl": ""
   },
   "socials": [
     {
       "icon": "FaLinkedin",
-      "link": "https://www.linkedin.com/in/jhon-doe"
+      "link": "https://www.linkedin.com/in/shubham-lingayat/"
     },
     {
       "icon": "FaGithub",
-      "link": "https://github.com/jhon-doe"
+      "link": "https://github.com/shubham-lingayat/"
     },
     {
       "icon": "FaInstagram",
-      "link": "https://www.instagram.com/jhondoe"
+      "link": "https://instagram.com/shubhamzzz_/"
     },
     {
       "icon": "FaTwitter",
-      "link": "https://twitter.com/jhondoe"
+      "link": "https://twitter.com/Shubham00946355/"
     }
   ],
   "skills": [
+    {
+      "name": "Python",
+      "image": "https://img.icons8.com/?size=100&id=13441&format=png&color=000000",
+      "category": "Programming Languages"
+    },
+    {
+      "name": "C",
+      "image": "https://img.icons8.com/?size=100&id=40670&format=png&color=000000",
+      "category": "Programming Languages"
+    },
+    {
+      "name": "C++",
+      "image": "https://img.icons8.com/?size=100&id=13441&format=png&color=000000",
+      "category": "Programming Languages"
+    },
+    {
+      "name": "JavaScript",
+      "image": "https://img.icons8.com/?size=100&id=25423&format=png&color=000000",
+      "category": "Programming Languages"
+    },
+    {
+      "name": "TypeScript",
+      "image": "https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000",
+      "category": "Programming Languages"
+    },
+    {
+      "name": "PHP",
+      "image": "https://img.icons8.com/?size=100&id=ew8X3wM9rXiK&format=png&color=000000",
+      "category": "Programming Languages"
+    },
+    {
+      "name": "HTML5",
+      "image": "https://img.icons8.com/?size=100&id=20909&format=png&color=000000",
+      "category": "Frontend"
+    },
+    {
+      "name": "CSS3",
+      "image": "https://img.icons8.com/?size=100&id=20909&format=png&color=000000",
+      "category": "Frontend"
+    },
+    {
+      "name": "Bootstrap",
+      "image": "https://img.icons8.com/?size=100&id=21278&format=png&color=000000",
+      "category": "Frontend"
+    },
+    {
+      "name": "Tailwind",
+      "image": "https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000",
+      "category": "Frontend"
+    },
     {
       "name": "JavaScript",
       "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
       "category": "Frontend"
     },
     {
+      "name": "React.js",
+      "image": "https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000",
+      "category": "Frontend"
+    },
+    {
+      "name": "Redux",
+      "image": "https://img.icons8.com/?size=100&id=jD-fJzVguBmw&format=png&color=000000",
+      "category": "Frontend"
+    },
+    {
+      "name": "Material UI",
+      "image": "https://img.icons8.com/?size=100&id=gFw7X5Tbl3ss&format=png&color=000000",
+      "category": "Frontend"
+    },
+    {
+      "name": "Chakra UI",
+      "image": "https://img.icons8.com/?size=100&id=r9QJ0VFFrn7T&format=png&color=000000",
+      "category": "Frontend"
+    },
+    {
+      "name": "Node.js",
+      "image": "https://img.icons8.com/?size=100&id=54087&format=png&color=000000",
+      "category": "Backend"
+    },
+    {
+      "name": "Express.js",
+      "image": "https://img.icons8.com/?size=100&id=54087&format=png&color=000000",
+      "category": "Backend"
+    },
+    {
+      "name": "Mongoose",
+      "image": "https://img.icons8.com/?size=100&id=gKfcEStXI1Hm&format=png&color=000000",
+      "category": "Backend"
+    },
+    {
+      "name": "MongoDB",
+      "image": "https://img.icons8.com/?size=100&id=74402&format=png&color=000000",
+      "category": "Backend"
+    },
+    {
       "name": "Firebase",
       "image": "https://img.icons8.com/color/144/null/firebase.png",
       "category": "Backend"
+    },
+    {
+      "name": "AWS",
+      "image": "https://img.icons8.com/?size=100&id=33039&format=png&color=000000",
+      "category": "Backend"
+    },
+    {
+      "name": "MySQL",
+      "image": "https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000",
+      "category": "Backend"
+    },
+    {
+     "name": "PHP",
+      "image": "https://img.icons8.com/?size=100&id=ew8X3wM9rXiK&format=png&color=000000",
+      "category": "Backend"
+    },
+    {
+      "name": "Postman",
+      "image": "https://img.icons8.com/?size=100&id=QEQQKirln6Tf&format=png&color=000000",
+      "category": "Tools"
+    },
+    {
+      "name": "MongoDB Compass",
+      "image": "https://img.icons8.com/?size=100&id=9672&format=png&color=000000",
+      "category": "Tools"
+    },
+    {
+      "name": "VS Code",
+      "image": "https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000",
+      "category": "Tools"
+    },
+    {
+      "name": "Git",
+      "image": "https://img.icons8.com/?size=100&id=20906&format=png&color=000000",
+      "category": "Tools"
+    },
+    {
+      "name": "GitLab",
+      "image": "https://img.icons8.com/?size=100&id=epZz7YMDqqwA&format=png&color=000000",
+      "category": "Tools"
     },
     {
       "name": "GitHub",
@@ -60,34 +191,331 @@
   ],
   "projects": [
     {
-      "name": "Project Title",
-      "techstack": "HTML5, CSS3, JavaScript, jQuery",
+      "name": "StudyNotion EdTech",
+      "techstack": "React.js, Redux, Node.js, Express.js, MongoDB, Tailwid CSS, MUI",
       "category": "MERN Stack",
-      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/project.jpg",
       "links": {
-        "code": "",
+        "code": "https://github.com/shubham-lingayat/studynotion-edtech.git",
         "video": "",
         "visit": ""
       }
     },
     {
-      "name": "Project Title",
-      "techstack": "Flutter, Dart, Firebase",
-      "category": "Flutter",
-      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+      "name": "Instagram WebApp",
+      "techstack": "React.js, Redux, Node.js, Express.js, MongoDB, Tailwind CSS, MUI, AWS S3, SendGrid, Socket.io",
+      "category": "MERN Stack",
+      "image": "",
       "links": {
-        "code": "",
+        "code": "https://github.com/shubham-lingayat/instagram-mern.git",
+        "video": "",
+        "visit": "https://instagram-mern-shubham-lingayat.onrender.com"
+      }
+    },
+    {
+      "name": "Flipkart WebApp",
+      "techstack": "React, Redux, Node.js, Express.js, MongoDB, Tailwind CSS, MUI, Paytm, Cloudinary, SendGrid",
+      "category": "MERN Stack",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/project.jpg",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/flipkart-mern.git",
         "video": "",
         "visit": ""
       }
     },
     {
-      "name": "Project Title",
-      "techstack": "PHP, MySQL, HTML5, CSS3, Bootstrap, JavaScript",
-      "category": "LAMP Stack",
-      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+      "name": "Landing Page",
+      "techstack": "React.js, Express.js, Node.js, Bootstrap, MongoDB",
+      "category": "MERN Stack",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/project.jpg",
       "links": {
-        "code": "",
+        "code": "https://github.com/shubham-lingayat/dy-patil-public-health-mern.git",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "MERN First App",
+      "techstack": "React.js, Express.js, Node.js, MongoDB, Tailwind",
+      "category": "MERN Stack",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/project.jpg",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/mern-first-app.git",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Top Courses",
+      "techstack": "React.js, Context API, Tailwind, HTML, CSS",
+      "category": "Frontend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/top-courses.png",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/top-courses.git",
+        "video": "",
+        "visit": "https://top-courses-shubham-lingayat.netlify.app/"
+      }
+    },
+    {
+      "name": "Random Gif",
+      "techstack": "React.js, Tailwind CSS, Context-API",
+      "category": "Frontend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/random-gif.png",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/random-gif.git",
+        "video": "",
+        "visit": "https://random-gif-shubham-lingayat.netlify.app/"
+      }
+    },
+    {
+      "name": "Shopping Cart - Redux",
+      "techstack": "React.js, Redux, Tailwind CSS",
+      "category": "Frontend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/shopping-cart.png",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/Redux--Shopping-Cart.git",
+        "video": "",
+        "visit": "https://shopping-cart-redux-shubham-lingayat.netlify.app/"
+      }
+    },
+    {
+      "name": "Context Blogs",
+      "techstack": "React.js, Context API, Tailwind, HTML, CSS",
+      "category": "Frontend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/blogs.png",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/Context-API---Blogs.git",
+        "video": "",
+        "visit": "https://context-blogs-shubham-lingayat.netlify.app/"
+      }
+    },
+    {
+      "name": "Form to Console",
+      "techstack": "React.js, Tailwind, HTML, CSS",
+      "category": "Frontend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/project.jpg",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/form-react.git",
+        "video": "",
+        "visit": "https://react-form-shubham-lingayat.netlify.app/"
+      }
+    },
+    {
+      "name": "Dashboard",
+      "techstack": "React.js, Tailwind, HTML, CSS",
+      "category": "Frontend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/dashboard.png",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/dashboard-react.git",
+        "video": "",
+        "visit": "https://dashboard-shubham-lingayat.netlify.app/"
+      }
+    },
+    {
+      "name": "Whether App",
+      "techstack": "HTML, Tailwind CSS, JavaScript",
+      "category": "Frontend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/whether-detection.png",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/weatherAppProject.git",
+        "video": "",
+        "visit": "https://weather-app-shubham-lingayat.netlify.app/"
+      }
+    },
+    {
+      "name": "Counter App",
+      "techstack": "HTML, Tailwind CSS, JavaScript",
+      "category": "Frontend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/counter-app.png",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/Counter-app.git",
+        "video": "",
+        "visit": "https://counter-app-shubham-lingayat.netlify.app/"
+      }
+    },
+    {
+      "name": "Discord Clone",
+      "techstack": "HTML, Tailwind CSS",
+      "category": "Frontend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/discord.png",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/discord-clone.git",
+        "video": "",
+        "visit": "https://discord-clone-shubham-lingayat.netlify.app/"
+      }
+    },
+    {
+      "name": "Modern Chair",
+      "techstack": "HTML, Tailwind CSS, JavaScript",
+      "category": "Frontend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/modern-chair.png",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/modern-chair.git",
+        "video": "",
+        "visit": "https://modern-chair-shubham-lingayat.netlify.app/"
+      }
+    },
+    {
+      "name": "Razorpay clone",
+      "techstack": "HTML, Tailwind CSS",
+      "category": "Frontend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/razorpay.png",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/razorpay-clone.git",
+        "video": "",
+        "visit": "https://razorpay-clone-shubham-lingayat.netlify.app/"
+      }
+    },
+    {
+      "name": "Card",
+      "techstack": "HTML, Tailwind CSS, JavaScript",
+      "category": "Frontend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/card.png",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/HTML-CSS-Project-III.git",
+        "video": "",
+        "visit": "https://html-css-project-3-shubham-lingayat.netlify.app/"
+      }
+    },
+    {
+      "name": "CUCET clone",
+      "techstack": "HTML, Tailwind CSS, PHP",
+      "category": "Frontend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/cucet.png",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/CUCET-2.git",
+        "video": "",
+        "visit": "https://shubh-cucet.netlify.app/"
+      }
+    },
+    {
+      "name": "Plan with Love",
+      "techstack": "HTML, Tailwind CSS, JavaScript",
+      "category": "Frontend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/plan-with-love.png",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/plan-with-love.git",
+        "video": "",
+        "visit": "https://plan-with-love-shubham-lingayat.netlify.app/"
+      }
+    },
+    {
+      "name": "Portfolio Website",
+      "techstack": "HTML, Tailwind CSS, JavaScript",
+      "category": "Frontend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/my-portfolio.png",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/portfolio.git",
+        "video": "",
+        "visit": "https://shubhamlingayat.netlify.app/"
+      }
+    },
+    {
+      "name": "Friend's Portfolio",
+      "techstack": "HTML, Tailwind CSS, CSS",
+      "category": "Frontend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/makarand-portfolio.png",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/makarand-portfolio.git",
+        "video": "",
+        "visit": "https://makarandvaydande.netlify.app/"
+      }
+    },
+    {
+      "name": "Parallax Scrolling Effect",
+      "techstack": "HTML, CSS",
+      "category": "Frontend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/parallax-effect.png",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/HTML-CSS-Project-I.git",
+        "video": "",
+        "visit": "https://html-css-project-1-shubham-lingayat.netlify.app/"
+      }
+    },
+    {
+      "name": "My Gallery",
+      "techstack": "HTML, CSS",
+      "category": "Frontend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/my-gallery.png",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/HTML-CSS-Project-II.git",
+        "video": "",
+        "visit": "https://html-css-project-2-shubham-lingayat.netlify.app/"
+      }
+    },
+    {
+      "name": "Resume Builder",
+      "techstack": "HTML, CSS, JavaScript",
+      "category": "Frontend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/resume-builder.png",
+      "links": {
+        "code": "#",
+        "video": "",
+        "visit": "https://resume-builder-shubham-lingayat.netlify.app/"
+      }
+    },
+    {
+      "name": "Tic-Tac-Toe Game",
+      "techstack": "HTML, CSS, JavaScript",
+      "category": "Frontend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/tic-tac-toe.png",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/tic-tac-toe.git",
+        "video": "",
+        "visit": "https://tic-tac-toe-shubham-lingayat.netlify.app/"
+      }
+    },
+    {
+      "name": "University Website",
+      "techstack": "HTML, CSS",
+      "category": "Frontend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/university-website.png",
+      "links": {
+        "code": "#",
+        "video": "",
+        "visit": "https://university-shubham-lingayat.netlify.app/"
+      }
+    },
+    {
+      "name": "Authentication & Authorization",
+      "techstack": "Express.js, MongoDB, Node.js",
+      "category": "Backend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/project.jpg",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/auth-aoth.git",
+        "video": "",
+        "visit": "#"
+      }
+    },
+    {
+      "name": "File Upload",
+      "techstack": "Express.js, MongoDB, Node.js",
+      "category": "Backend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/project.jpg",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/file-upload.git",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Blog App using Express",
+      "techstack": "Express.js, MongoDB, Node.js",
+      "category": "Backend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/project.jpg",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/blog-app-express.git",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "MongoDB Database Connection",
+      "techstack": "Express.js, MongoDB, Node.js",
+      "category": "Backend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/project.jpg",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/mongodb-database-connection-mongoose.git",
         "video": "",
         "visit": ""
       }
@@ -95,40 +523,56 @@
   ],
   "educations": [
     {
-      "institute": "XYZ School | CBSE",
-      "degree": "HSC Science",
-      "duration": "2014 - 2016"
+      "institute": "Shree Shivaji Vidyamandir Aundh Pune",
+      "degree": "HSC (Computer Science)",
+      "duration": "2019 - 2020"
     },
     {
-      "institute": "XYZ College Of Engineering",
-      "degree": "B.Tech CSE",
-      "duration": "2016 - 2020",
+      "institute": "Zeal College Of Engineering and Research",
+      "degree": "B.E. Artificial Intelligence and Data Science",
+      "duration": "2020 - 2024",
       "desc": [
-        "Pursuing IT Engineering course from ABC University",
-        "Worked on web application development using HTML, CSS, and JavaScript, designing a database system using SQL",
-        "Familiar with software development methodologies and project management practices, including Agile and Waterfall methodologies."
+        "Cumulative GPA: 8.44/10"
       ]
     }
   ],
   "experiences": [
     {
-      "company": "ABC Tech Solutions",
-      "position": "Web Developer",
-      "duration": "2020 -2022",
+      "company": "GladOwl Web Solutions Pvt. Ltd.",
+      "position": "Fullstack Web Developer",
+      "duration": "Jun 2024 - Present",
       "desc": [
         "Assisted with design and development of project.",
         "Worked on building the product from scratch and built multiple dashboards.",
-        "Skills: HTML · CSS · JavaScript · TailwindCSS · ReactJS · NodeJS · MySQL · REST APIs"
+        "Skills: HTML · CSS · JavaScript · TailwindCSS · ReactJS · NodeJS · ExpressJS · MongoDB · REST APIs"
       ]
     },
     {
-      "company": "XYZ Tech Solutions",
+      "company": "Self Employed",
       "position": "Web Developer",
-      "duration": "2022 - present",
+      "duration": "May 2023 - May 2024",
       "desc": [
-        "Assisted with design and development of project.",
-        "Worked on building the product from scratch and built multiple dashboards.",
-        "Skills: HTML · CSS · JavaScript · TailwindCSS · ReactJS · NodeJS · MySQL · REST APIs"
+        "I am very passionate about improving my coding skills & developing applications & websites.",
+        "Working for myself to improve my skills. Love to build Full-Stack clones.",
+        "Skills: HTML · CSS · JavaScript · TailwindCSS · ReactJS · NodeJS · ExpressJS · MongoDB · REST APIs"
+      ]
+    },
+    {
+      "company": "Technical Coding and Research Innovation",
+      "position": "Frontend Web Developement Intern",
+      "duration": "Feb 2023 - Apr 2023",
+      "desc": [
+        "Learned more about Frontend development and build one major and one minor project.",
+        "Skills: HTML · CSS · JavaScript · BootStrap · PHP · MySQL"
+      ]
+    },
+    {
+      "company": "THE RESOLVED TECH",
+      "position": "Web Developement Intern",
+      "duration": "Nov 2022 - Jan 2023",
+      "desc": [
+        "As a fresher, I got idea how web development works and hence I have contributed to build Multiple websites.",
+        "Skills: HTML · CSS · JavaScript · PHP · MySQL"
       ]
     }
   ]
