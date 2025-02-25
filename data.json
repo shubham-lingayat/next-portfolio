@@ -191,102 +191,179 @@
   ],
   "projects": [
     {
-      "name": "StudyNotion EdTech",
-      "techstack": "React.js, Redux, Node.js, Express.js, MongoDB, Tailwid CSS, MUI",
-      "category": "MERN Stack",
+      "name": "Authentication & Authorization",
+      "techstack": "Express.js, MongoDB, Node.js",
+      "category": "Backend",
       "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/project.jpg",
       "links": {
-        "code": "https://github.com/shubham-lingayat/studynotion-edtech.git",
+        "code": "https://github.com/shubham-lingayat/auth-aoth.git",
+        "video": "",
+        "visit": "#"
+      }
+    },
+    {
+      "name": "File Upload",
+      "techstack": "Express.js, MongoDB, Node.js",
+      "category": "Backend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/project.jpg",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/file-upload.git",
         "video": "",
         "visit": ""
       }
     },
     {
-      "name": "Instagram WebApp",
-      "techstack": "React.js, Redux, Node.js, Express.js, MongoDB, Tailwind CSS, MUI, AWS S3, SendGrid, Socket.io",
-      "category": "MERN Stack",
-      "image": "",
-      "links": {
-        "code": "https://github.com/shubham-lingayat/instagram-mern.git",
-        "video": "",
-        "visit": "https://instagram-mern-shubham-lingayat.onrender.com"
-      }
-    },
-    {
-      "name": "Flipkart WebApp",
-      "techstack": "React, Redux, Node.js, Express.js, MongoDB, Tailwind CSS, MUI, Paytm, Cloudinary, SendGrid",
-      "category": "MERN Stack",
+      "name": "Blog App using Express",
+      "techstack": "Express.js, MongoDB, Node.js",
+      "category": "Backend",
       "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/project.jpg",
       "links": {
-        "code": "https://github.com/shubham-lingayat/flipkart-mern.git",
+        "code": "https://github.com/shubham-lingayat/blog-app-express.git",
         "video": "",
         "visit": ""
       }
     },
     {
-      "name": "Landing Page",
-      "techstack": "React.js, Express.js, Node.js, Bootstrap, MongoDB",
-      "category": "MERN Stack",
+      "name": "MongoDB Database Connection",
+      "techstack": "Express.js, MongoDB, Node.js",
+      "category": "Backend",
       "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/project.jpg",
       "links": {
-        "code": "https://github.com/shubham-lingayat/dy-patil-public-health-mern.git",
+        "code": "https://github.com/shubham-lingayat/mongodb-database-connection-mongoose.git",
         "video": "",
         "visit": ""
       }
     },
     {
-      "name": "MERN First App",
-      "techstack": "React.js, Express.js, Node.js, MongoDB, Tailwind",
-      "category": "MERN Stack",
-      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/project.jpg",
+      "name": "University Website",
+      "techstack": "HTML, CSS",
+      "category": "Frontend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/university-website.png",
       "links": {
-        "code": "https://github.com/shubham-lingayat/mern-first-app.git",
+        "code": "#",
         "video": "",
-        "visit": ""
+        "visit": "https://university-shubham-lingayat.netlify.app/"
       }
     },
     {
-      "name": "Top Courses",
-      "techstack": "React.js, Context API, Tailwind, HTML, CSS",
+      "name": "Tic-Tac-Toe Game",
+      "techstack": "HTML, CSS, JavaScript",
       "category": "Frontend",
-      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/top-courses.png",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/tic-tac-toe.png",
       "links": {
-        "code": "https://github.com/shubham-lingayat/top-courses.git",
+        "code": "https://github.com/shubham-lingayat/tic-tac-toe.git",
         "video": "",
-        "visit": "https://top-courses-shubham-lingayat.netlify.app/"
+        "visit": "https://tic-tac-toe-shubham-lingayat.netlify.app/"
       }
     },
     {
-      "name": "Random Gif",
-      "techstack": "React.js, Tailwind CSS, Context-API",
+      "name": "Resume Builder",
+      "techstack": "HTML, CSS, JavaScript",
       "category": "Frontend",
-      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/random-gif.png",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/resume-builder.png",
       "links": {
-        "code": "https://github.com/shubham-lingayat/random-gif.git",
+        "code": "#",
         "video": "",
-        "visit": "https://random-gif-shubham-lingayat.netlify.app/"
+        "visit": "https://resume-builder-shubham-lingayat.netlify.app/"
       }
     },
     {
-      "name": "Shopping Cart - Redux",
-      "techstack": "React.js, Redux, Tailwind CSS",
+      "name": "My Gallery",
+      "techstack": "HTML, CSS",
       "category": "Frontend",
-      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/shopping-cart.png",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/my-gallery.png",
       "links": {
-        "code": "https://github.com/shubham-lingayat/Redux--Shopping-Cart.git",
+        "code": "https://github.com/shubham-lingayat/HTML-CSS-Project-II.git",
         "video": "",
-        "visit": "https://shopping-cart-redux-shubham-lingayat.netlify.app/"
+        "visit": "https://html-css-project-2-shubham-lingayat.netlify.app/"
       }
     },
     {
-      "name": "Context Blogs",
-      "techstack": "React.js, Context API, Tailwind, HTML, CSS",
+      "name": "Parallax Scrolling Effect",
+      "techstack": "HTML, CSS",
       "category": "Frontend",
-      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/blogs.png",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/parallax-effect.png",
       "links": {
-        "code": "https://github.com/shubham-lingayat/Context-API---Blogs.git",
+        "code": "https://github.com/shubham-lingayat/HTML-CSS-Project-I.git",
         "video": "",
-        "visit": "https://context-blogs-shubham-lingayat.netlify.app/"
+        "visit": "https://html-css-project-1-shubham-lingayat.netlify.app/"
+      }
+    },
+    {
+      "name": "Friend's Portfolio",
+      "techstack": "HTML, Tailwind CSS, CSS",
+      "category": "Frontend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/makarand-portfolio.png",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/makarand-portfolio.git",
+        "video": "",
+        "visit": "https://makarandvaydande.netlify.app/"
+      }
+    },
+    {
+      "name": "Portfolio Website",
+      "techstack": "HTML, Tailwind CSS, JavaScript",
+      "category": "Frontend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/my-portfolio.png",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/portfolio.git",
+        "video": "",
+        "visit": "https://shubhamlingayat.netlify.app/"
+      }
+    },
+    {
+      "name": "Plan with Love",
+      "techstack": "HTML, Tailwind CSS, JavaScript",
+      "category": "Frontend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/plan-with-love.png",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/plan-with-love.git",
+        "video": "",
+        "visit": "https://plan-with-love-shubham-lingayat.netlify.app/"
+      }
+    },
+    {
+      "name": "CUCET clone",
+      "techstack": "HTML, Tailwind CSS, PHP",
+      "category": "Frontend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/cucet.png",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/CUCET-2.git",
+        "video": "",
+        "visit": "https://shubh-cucet.netlify.app/"
+      }
+    },
+    {
+      "name": "Card",
+      "techstack": "HTML, Tailwind CSS, JavaScript",
+      "category": "Frontend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/card.png",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/HTML-CSS-Project-III.git",
+        "video": "",
+        "visit": "https://html-css-project-3-shubham-lingayat.netlify.app/"
+      }
+    },
+    {
+      "name": "Modern Chair",
+      "techstack": "HTML, Tailwind CSS, JavaScript",
+      "category": "Frontend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/modern-chair.png",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/modern-chair.git",
+        "video": "",
+        "visit": "https://modern-chair-shubham-lingayat.netlify.app/"
+      }
+    },
+    {
+      "name": "Discord Clone",
+      "techstack": "HTML, Tailwind CSS",
+      "category": "Frontend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/discord.png",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/discord-clone.git",
+        "video": "",
+        "visit": "https://discord-clone-shubham-lingayat.netlify.app/"
       }
     },
     {
@@ -334,28 +411,6 @@
       }
     },
     {
-      "name": "Discord Clone",
-      "techstack": "HTML, Tailwind CSS",
-      "category": "Frontend",
-      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/discord.png",
-      "links": {
-        "code": "https://github.com/shubham-lingayat/discord-clone.git",
-        "video": "",
-        "visit": "https://discord-clone-shubham-lingayat.netlify.app/"
-      }
-    },
-    {
-      "name": "Modern Chair",
-      "techstack": "HTML, Tailwind CSS, JavaScript",
-      "category": "Frontend",
-      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/modern-chair.png",
-      "links": {
-        "code": "https://github.com/shubham-lingayat/modern-chair.git",
-        "video": "",
-        "visit": "https://modern-chair-shubham-lingayat.netlify.app/"
-      }
-    },
-    {
       "name": "Razorpay clone",
       "techstack": "HTML, Tailwind CSS",
       "category": "Frontend",
@@ -367,155 +422,100 @@
       }
     },
     {
-      "name": "Card",
-      "techstack": "HTML, Tailwind CSS, JavaScript",
+      "name": "Top Courses",
+      "techstack": "React.js, Context API, Tailwind, HTML, CSS",
       "category": "Frontend",
-      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/card.png",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/top-courses.png",
       "links": {
-        "code": "https://github.com/shubham-lingayat/HTML-CSS-Project-III.git",
+        "code": "https://github.com/shubham-lingayat/top-courses.git",
         "video": "",
-        "visit": "https://html-css-project-3-shubham-lingayat.netlify.app/"
+        "visit": "https://top-courses-shubham-lingayat.netlify.app/"
       }
     },
     {
-      "name": "CUCET clone",
-      "techstack": "HTML, Tailwind CSS, PHP",
+      "name": "Random Gif",
+      "techstack": "React.js, Tailwind CSS, Context-API",
       "category": "Frontend",
-      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/cucet.png",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/random-gif.png",
       "links": {
-        "code": "https://github.com/shubham-lingayat/CUCET-2.git",
+        "code": "https://github.com/shubham-lingayat/random-gif.git",
         "video": "",
-        "visit": "https://shubh-cucet.netlify.app/"
+        "visit": "https://random-gif-shubham-lingayat.netlify.app/"
       }
     },
     {
-      "name": "Plan with Love",
-      "techstack": "HTML, Tailwind CSS, JavaScript",
+      "name": "Context Blogs",
+      "techstack": "React.js, Context API, Tailwind, HTML, CSS",
       "category": "Frontend",
-      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/plan-with-love.png",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/blogs.png",
       "links": {
-        "code": "https://github.com/shubham-lingayat/plan-with-love.git",
+        "code": "https://github.com/shubham-lingayat/Context-API---Blogs.git",
         "video": "",
-        "visit": "https://plan-with-love-shubham-lingayat.netlify.app/"
+        "visit": "https://context-blogs-shubham-lingayat.netlify.app/"
       }
     },
     {
-      "name": "Portfolio Website",
-      "techstack": "HTML, Tailwind CSS, JavaScript",
+      "name": "Shopping Cart - Redux",
+      "techstack": "React.js, Redux, Tailwind CSS",
       "category": "Frontend",
-      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/my-portfolio.png",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/shopping-cart.png",
       "links": {
-        "code": "https://github.com/shubham-lingayat/portfolio.git",
+        "code": "https://github.com/shubham-lingayat/Redux--Shopping-Cart.git",
         "video": "",
-        "visit": "https://shubhamlingayat.netlify.app/"
+        "visit": "https://shopping-cart-redux-shubham-lingayat.netlify.app/"
       }
     },
     {
-      "name": "Friend's Portfolio",
-      "techstack": "HTML, Tailwind CSS, CSS",
-      "category": "Frontend",
-      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/makarand-portfolio.png",
-      "links": {
-        "code": "https://github.com/shubham-lingayat/makarand-portfolio.git",
-        "video": "",
-        "visit": "https://makarandvaydande.netlify.app/"
-      }
-    },
-    {
-      "name": "Parallax Scrolling Effect",
-      "techstack": "HTML, CSS",
-      "category": "Frontend",
-      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/parallax-effect.png",
-      "links": {
-        "code": "https://github.com/shubham-lingayat/HTML-CSS-Project-I.git",
-        "video": "",
-        "visit": "https://html-css-project-1-shubham-lingayat.netlify.app/"
-      }
-    },
-    {
-      "name": "My Gallery",
-      "techstack": "HTML, CSS",
-      "category": "Frontend",
-      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/my-gallery.png",
-      "links": {
-        "code": "https://github.com/shubham-lingayat/HTML-CSS-Project-II.git",
-        "video": "",
-        "visit": "https://html-css-project-2-shubham-lingayat.netlify.app/"
-      }
-    },
-    {
-      "name": "Resume Builder",
-      "techstack": "HTML, CSS, JavaScript",
-      "category": "Frontend",
-      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/resume-builder.png",
-      "links": {
-        "code": "#",
-        "video": "",
-        "visit": "https://resume-builder-shubham-lingayat.netlify.app/"
-      }
-    },
-    {
-      "name": "Tic-Tac-Toe Game",
-      "techstack": "HTML, CSS, JavaScript",
-      "category": "Frontend",
-      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/tic-tac-toe.png",
-      "links": {
-        "code": "https://github.com/shubham-lingayat/tic-tac-toe.git",
-        "video": "",
-        "visit": "https://tic-tac-toe-shubham-lingayat.netlify.app/"
-      }
-    },
-    {
-      "name": "University Website",
-      "techstack": "HTML, CSS",
-      "category": "Frontend",
-      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/university-website.png",
-      "links": {
-        "code": "#",
-        "video": "",
-        "visit": "https://university-shubham-lingayat.netlify.app/"
-      }
-    },
-    {
-      "name": "Authentication & Authorization",
-      "techstack": "Express.js, MongoDB, Node.js",
-      "category": "Backend",
+      "name": "MERN First App",
+      "techstack": "React.js, Express.js, Node.js, MongoDB, Tailwind",
+      "category": "MERN Stack",
       "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/project.jpg",
       "links": {
-        "code": "https://github.com/shubham-lingayat/auth-aoth.git",
-        "video": "",
-        "visit": "#"
-      }
-    },
-    {
-      "name": "File Upload",
-      "techstack": "Express.js, MongoDB, Node.js",
-      "category": "Backend",
-      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/project.jpg",
-      "links": {
-        "code": "https://github.com/shubham-lingayat/file-upload.git",
+        "code": "https://github.com/shubham-lingayat/mern-first-app.git",
         "video": "",
         "visit": ""
       }
     },
     {
-      "name": "Blog App using Express",
-      "techstack": "Express.js, MongoDB, Node.js",
-      "category": "Backend",
+      "name": "Landing Page",
+      "techstack": "React.js, Express.js, Node.js, Bootstrap, MongoDB",
+      "category": "MERN Stack",
       "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/project.jpg",
       "links": {
-        "code": "https://github.com/shubham-lingayat/blog-app-express.git",
+        "code": "https://github.com/shubham-lingayat/dy-patil-public-health-mern.git",
         "video": "",
         "visit": ""
       }
     },
     {
-      "name": "MongoDB Database Connection",
-      "techstack": "Express.js, MongoDB, Node.js",
-      "category": "Backend",
+      "name": "Flipkart WebApp",
+      "techstack": "React, Redux, Node.js, Express.js, MongoDB, Tailwind CSS, MUI, Paytm, Cloudinary, SendGrid",
+      "category": "MERN Stack",
       "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/project.jpg",
       "links": {
-        "code": "https://github.com/shubham-lingayat/mongodb-database-connection-mongoose.git",
+        "code": "https://github.com/shubham-lingayat/flipkart-mern.git",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Instagram WebApp",
+      "techstack": "React.js, Redux, Node.js, Express.js, MongoDB, Tailwind CSS, MUI, AWS S3, SendGrid, Socket.io",
+      "category": "MERN Stack",
+      "image": "",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/instagram-mern.git",
+        "video": "",
+        "visit": "https://instagram-mern-shubham-lingayat.onrender.com"
+      }
+    },
+    {
+      "name": "StudyNotion EdTech",
+      "techstack": "React.js, Redux, Node.js, Express.js, MongoDB, Tailwid CSS, MUI",
+      "category": "MERN Stack",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/project.jpg",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/studynotion-edtech.git",
         "video": "",
         "visit": ""
       }
@@ -538,13 +538,21 @@
   ],
   "experiences": [
     {
-      "company": "GladOwl Web Solutions Pvt. Ltd.",
-      "position": "Fullstack Web Developer",
-      "duration": "Jun 2024 - Present",
+      "company": "THE RESOLVED TECH",
+      "position": "Web Developement Intern",
+      "duration": "Nov 2022 - Jan 2023",
       "desc": [
-        "Assisted with design and development of project.",
-        "Worked on building the product from scratch and built multiple dashboards.",
-        "Skills: HTML · CSS · JavaScript · TailwindCSS · ReactJS · NodeJS · ExpressJS · MongoDB · REST APIs"
+        "As a fresher, I got idea how web development works and hence I have contributed to build Multiple websites.",
+        "Skills: HTML · CSS · JavaScript · PHP · MySQL"
+      ]
+    },
+    {
+      "company": "Technical Coding and Research Innovation",
+      "position": "Frontend Web Developement Intern",
+      "duration": "Feb 2023 - Apr 2023",
+      "desc": [
+        "Learned more about Frontend development and build one major and one minor project.",
+        "Skills: HTML · CSS · JavaScript · BootStrap · PHP · MySQL"
       ]
     },
     {
@@ -558,21 +566,13 @@
       ]
     },
     {
-      "company": "Technical Coding and Research Innovation",
-      "position": "Frontend Web Developement Intern",
-      "duration": "Feb 2023 - Apr 2023",
+      "company": "GladOwl Web Solutions Pvt. Ltd.",
+      "position": "Fullstack Web Developer",
+      "duration": "Jun 2024 - Present",
       "desc": [
-        "Learned more about Frontend development and build one major and one minor project.",
-        "Skills: HTML · CSS · JavaScript · BootStrap · PHP · MySQL"
-      ]
-    },
-    {
-      "company": "THE RESOLVED TECH",
-      "position": "Web Developement Intern",
-      "duration": "Nov 2022 - Jan 2023",
-      "desc": [
-        "As a fresher, I got idea how web development works and hence I have contributed to build Multiple websites.",
-        "Skills: HTML · CSS · JavaScript · PHP · MySQL"
+        "Assisted with design and development of project.",
+        "Worked on building the product from scratch and built multiple dashboards.",
+        "Skills: HTML · CSS · JavaScript · TailwindCSS · ReactJS · NodeJS · ExpressJS · MongoDB · REST APIs"
       ]
     }
   ]
