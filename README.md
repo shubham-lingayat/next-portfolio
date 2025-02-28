@@ -1,4 +1,4 @@
-![Portfolio](https://res.cloudinary.com/lifecodes/image/upload/v1678684352/Portfolio/l7b1gz61rh3hgoz5qzta.png)
+![Portfolio](https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/next-portfolio.png)
 
 <div align="center">
   &middot;
