@@ -2,13 +2,11 @@ import { ReactNode, useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 
-// Animation variants
 const sectionVariants = {
     hidden: { opacity: 0 },
     visible: { opacity: 1, transition: { duration: 0.6, ease: 'easeInOut' } }
 };
 
-// Props interface
 interface SectionWrapperProps {
     children: ReactNode;
     id?: string;
@@ -29,16 +27,16 @@ const SectionWrapper = ({ children, id, className }: SectionWrapperProps) => {
     if (!hasMounted) return null;
 
     return (
-        <motion.section
+        <motion.div // Use div instead of section for now
             ref={ref}
             variants={sectionVariants}
             initial="hidden"
             animate={inView ? 'visible' : 'hidden'}
-            {...(id && { id })} // Spread only if id exists
-            {...(className && { className })} // Spread only if className exists
+            id={id}
+            className={className}
         >
             {children}
-        </motion.section>
+        </motion.div>
     );
 };
 

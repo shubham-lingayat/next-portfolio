@@ -18,7 +18,7 @@
     "eslint-config-next": "13.1.6",
     "fast-average-color": "^9.3.0",
     "firebase": "^9.17.1",
-    "framer-motion": "^9.1.7",
+    "framer-motion": "^12.4.7",
     "next": "13.1.6",
     "next-themes": "^0.2.1",
     "react": "^18.2.0",
