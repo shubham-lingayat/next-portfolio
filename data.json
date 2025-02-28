@@ -198,7 +198,7 @@
       "links": {
         "code": "https://github.com/shubham-lingayat/auth-aoth.git",
         "video": "",
-        "visit": "#"
+        "visit": ""
       }
     },
     {
@@ -240,7 +240,7 @@
       "category": "Frontend",
       "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/university-website.png",
       "links": {
-        "code": "#",
+        "code": "",
         "video": "",
         "visit": "https://university-shubham-lingayat.netlify.app/"
       }
@@ -262,7 +262,7 @@
       "category": "Frontend",
       "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/resume-builder.png",
       "links": {
-        "code": "#",
+        "code": "",
         "video": "",
         "visit": "https://resume-builder-shubham-lingayat.netlify.app/"
       }
