@@ -1,11 +1,17 @@
 import type { NextApiRequest, NextApiResponse } from "next";
-import sgMail from "@sendgrid/mail";
-
-sgMail.setApiKey(process.env.SENDGRID_API_KEY || '');
+import nodemailer from 'nodemailer';
 
 type Data = {
     message: string;
 };
+
+const transporter = nodemailer.createTransport({
+    service: "gmail",
+    auth: {
+        user: process.env.MAIL_FROM, // Your Gmail address
+        pass: process.env.GMAIL_APP_PASSWORD // Your Gmail app password
+    }
+});
 
 export default async function handler(
     req: NextApiRequest,
@@ -17,19 +23,23 @@ export default async function handler(
             email,
             message,
         }: { name: string; email: string; message: string } = req.body;
-        const msg = `Name: ${name}\r\n Email: ${email}\r\n Message: ${message}`;
-        const data = {
-            to: process.env.MAIL_TO as string,
-            from: process.env.MAIL_FROM as string,
+
+        const mailOptions = {
+            from: process.env.MAIL_FROM,
+            to: process.env.MAIL_TO,
             subject: `${name.toUpperCase()} sent you a message from Portfolio`,
-            text: `Email => ${email}`,
-            html: msg.replace(/\r\n/g, "<br>"),
+            text: `Email => ${email}\n\nMessage:\n${message}`,
+            html: `<p>Email => ${email}</p><p>Message:<br>${message.replace(/\r\n/g, "<br>")}</p>`,
         };
+
         try {
-            await sgMail.send(data);
+            await transporter.sendMail(mailOptions);
             res.status(200).json({ message: "Your message was sent successfully." });
         } catch (err) {
+            console.error(err);
             res.status(500).json({ message: `There was an error sending your message. ${err}` });
         }
+    } else {
+        res.status(405).json({ message: "Method not allowed" });
     }
 }
