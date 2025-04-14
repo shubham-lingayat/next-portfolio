@@ -17,12 +17,12 @@
     ]
   },
   "about": {
-    "aboutImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "aboutImage": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/profile.jpeg",
     "aboutImageCaption": "< I build stuff 🚀/>",
     "title": "Full Stack Developer",
-    "about": "Hello there! I'm Shubham Lingayat, working as an Executive Developer at GladOwl Web Solutions Pvt. Ltd. I had completed my engineering by specializing in Artificial Intelligence and Data Science from Zeal College Of Engineering and Research Pune, with a burning passion for software development",
+    "about": "Hello there! I'm Shubham Lingayat, working as an Fullstack Developer at GladOwl Web Solutions Pvt. Ltd. I had completed my engineering by specializing in Artificial Intelligence and Data Science from Zeal College Of Engineering and Research Pune, with a burning passion for software development",
     "callUrl": "tel:+919823960449",
-    "resumeUrl": ""
+    "resumeUrl": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/Shubham+Lingayat.pdf"
   },
   "socials": [
     {
@@ -154,7 +154,7 @@
       "category": "Backend"
     },
     {
-     "name": "PHP",
+      "name": "PHP",
       "image": "https://img.icons8.com/?size=100&id=ew8X3wM9rXiK&format=png&color=000000",
       "category": "Backend"
     },
@@ -511,13 +511,13 @@
     },
     {
       "name": "StudyNotion EdTech",
-      "techstack": "React.js, Redux, Node.js, Express.js, MongoDB, Tailwid CSS, MUI",
+      "techstack": "React.js, Redux, Node.js, Express.js, MongoDB, Tailwid CSS, Razorpay",
       "category": "MERN Stack",
-      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/project.jpg",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/studyNotion.png",
       "links": {
-        "code": "https://github.com/shubham-lingayat/studynotion-edtech.git",
+        "code": "https://github.com/shubham-lingayat/studynotion-fullstack-mern.git",
         "video": "",
-        "visit": ""
+        "visit": "https://studynotion-mern-shubham-lingayat.vercel.app/"
       }
     }
   ],
@@ -531,9 +531,7 @@
       "institute": "Zeal College Of Engineering and Research",
       "degree": "B.E. Artificial Intelligence and Data Science",
       "duration": "2020 - 2024",
-      "desc": [
-        "Cumulative GPA: 8.44/10"
-      ]
+      "desc": ["Cumulative GPA: 8.44/10"]
     }
   ],
   "experiences": [
@@ -549,7 +547,7 @@
     {
       "company": "Technical Coding and Research Innovation",
       "position": "Frontend Web Developement Intern",
-      "duration": "Feb 2023 - Apr 2023",
+      "duration": "Sept 2023 - Feb 2024",
       "desc": [
         "Learned more about Frontend development and build one major and one minor project.",
         "Skills: HTML · CSS · JavaScript · BootStrap · PHP · MySQL"
@@ -558,7 +556,7 @@
     {
       "company": "Self Employed",
       "position": "Web Developer",
-      "duration": "May 2023 - May 2024",
+      "duration": "March 2024 - May 2024",
       "desc": [
         "I am very passionate about improving my coding skills & developing applications & websites.",
         "Working for myself to improve my skills. Love to build Full-Stack clones.",
