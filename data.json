@@ -74,26 +74,6 @@
       "category": "Programming Languages"
     },
     {
-      "name": "HTML5",
-      "image": "https://img.icons8.com/?size=100&id=20909&format=png&color=000000",
-      "category": "Frontend"
-    },
-    {
-      "name": "CSS3",
-      "image": "https://img.icons8.com/?size=100&id=20909&format=png&color=000000",
-      "category": "Frontend"
-    },
-    {
-      "name": "Bootstrap",
-      "image": "https://img.icons8.com/?size=100&id=21278&format=png&color=000000",
-      "category": "Frontend"
-    },
-    {
-      "name": "Tailwind",
-      "image": "https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000",
-      "category": "Frontend"
-    },
-    {
       "name": "JavaScript",
       "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
       "category": "Frontend"
@@ -116,6 +96,25 @@
     {
       "name": "Chakra UI",
       "image": "https://img.icons8.com/?size=100&id=r9QJ0VFFrn7T&format=png&color=000000",
+      "category": "Frontend"
+    }, {
+      "name": "HTML5",
+      "image": "https://img.icons8.com/?size=100&id=20909&format=png&color=000000",
+      "category": "Frontend"
+    },
+    {
+      "name": "CSS3",
+      "image": "https://img.icons8.com/?size=100&id=20909&format=png&color=000000",
+      "category": "Frontend"
+    },
+    {
+      "name": "Bootstrap",
+      "image": "https://img.icons8.com/?size=100&id=21278&format=png&color=000000",
+      "category": "Frontend"
+    },
+    {
+      "name": "Tailwind",
+      "image": "https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000",
       "category": "Frontend"
     },
     {
@@ -191,23 +190,12 @@
   ],
   "projects": [
     {
-      "name": "Authentication & Authorization",
+      "name": "MongoDB Database Connection",
       "techstack": "Express.js, MongoDB, Node.js",
       "category": "Backend",
       "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/project.jpg",
       "links": {
-        "code": "https://github.com/shubham-lingayat/auth-aoth.git",
-        "video": "",
-        "visit": ""
-      }
-    },
-    {
-      "name": "File Upload",
-      "techstack": "Express.js, MongoDB, Node.js",
-      "category": "Backend",
-      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/project.jpg",
-      "links": {
-        "code": "https://github.com/shubham-lingayat/file-upload.git",
+        "code": "https://github.com/shubham-lingayat/mongodb-database-connection-mongoose.git",
         "video": "",
         "visit": ""
       }
@@ -224,12 +212,23 @@
       }
     },
     {
-      "name": "MongoDB Database Connection",
+      "name": "File Upload",
       "techstack": "Express.js, MongoDB, Node.js",
       "category": "Backend",
       "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/project.jpg",
       "links": {
-        "code": "https://github.com/shubham-lingayat/mongodb-database-connection-mongoose.git",
+        "code": "https://github.com/shubham-lingayat/file-upload.git",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Authentication & Authorization",
+      "techstack": "Express.js, MongoDB, Node.js",
+      "category": "Backend",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/project.jpg",
+      "links": {
+        "code": "https://github.com/shubham-lingayat/auth-aoth.git",
         "video": "",
         "visit": ""
       }
@@ -469,7 +468,7 @@
       "name": "MERN First App",
       "techstack": "React.js, Express.js, Node.js, MongoDB, Tailwind",
       "category": "MERN Stack",
-      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/project.jpg",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/mern-first-app.png",
       "links": {
         "code": "https://github.com/shubham-lingayat/mern-first-app.git",
         "video": "",
@@ -480,7 +479,7 @@
       "name": "Landing Page",
       "techstack": "React.js, Express.js, Node.js, Bootstrap, MongoDB",
       "category": "MERN Stack",
-      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/project.jpg",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/dy-patil.png",
       "links": {
         "code": "https://github.com/shubham-lingayat/dy-patil-public-health-mern.git",
         "video": "",
@@ -491,7 +490,7 @@
       "name": "Flipkart WebApp",
       "techstack": "React, Redux, Node.js, Express.js, MongoDB, Tailwind CSS, MUI, Paytm, Cloudinary, SendGrid",
       "category": "MERN Stack",
-      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/project.jpg",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/flipkart-mern.png",
       "links": {
         "code": "https://github.com/shubham-lingayat/flipkart-mern.git",
         "video": "",
@@ -502,7 +501,7 @@
       "name": "Instagram WebApp",
       "techstack": "React.js, Redux, Node.js, Express.js, MongoDB, Tailwind CSS, MUI, AWS S3, SendGrid, Socket.io",
       "category": "MERN Stack",
-      "image": "",
+      "image": "https://next-portfolio-shubham-lingayat.s3.us-east-1.amazonaws.com/website-screenshots/instagram-mern.png",
       "links": {
         "code": "https://github.com/shubham-lingayat/instagram-mern.git",
         "video": "",
