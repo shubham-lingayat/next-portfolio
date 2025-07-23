@@ -54,7 +54,7 @@ const Hero = () => {
                     </div>
 
                     <p className='text-sm md:text-base text-gray-600 dark:text-gray-300'>
-                        I focus on developing user-friendly web applications that meet the client's requirements, with attention to detail, scalability, and performance.
+                        I focus on developing user-friendly web applications that meet the client&apos;s requirements, with attention to detail, scalability, and performance.
                     </p>
 
                     <ScrollLink
