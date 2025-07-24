@@ -4,10 +4,9 @@ import { useTheme } from 'next-themes'
 import Link from 'next/link'
 import { Link as ScrollLink } from 'react-scroll'
 import { FiSun, FiMoon } from 'react-icons/fi'
-import { FaNodeJs } from 'react-icons/fa'
 import { CgClose, CgMenuRight } from 'react-icons/cg'
 
-export default function Header({ logo }: { logo: string }) {
+export default function Header() {
 
     const [navCollapse, setNavCollapse] = useState(true)
     const [scroll, setScroll] = useState(false)
@@ -28,7 +27,7 @@ export default function Header({ logo }: { logo: string }) {
             <nav className='lg:w-11/12 2xl:w-4/5 w-full md:px-6 2xl:px-0 mx-auto py-4 hidden sm:flex items-center justify-between'>
 
                 <Link href={'/'} className='2xl:ml-6 hover:text-violet-700 hover:dark:text-violet-500 transition-colors duration-300'>
-                    {logo === 'Shubhzz' ? <FaNodeJs size={28} /> : <span className='text-lg font-medium'>{logo.split(' ')[0]}</span>}
+                    <span className='text-lg font-medium'>Shubhzz</span>
                 </Link>
 
                 <ul className='flex items-center gap-8'>
@@ -55,7 +54,7 @@ export default function Header({ logo }: { logo: string }) {
             </nav>
 
             <nav className='p-4 flex sm:hidden items-center justify-between'>
-                {logo === 'Shubham Lingayat' ? <FaNodeJs size={28} /> : <span className='text-lg font-medium'>{logo.split(' ')[0]}</span>}
+                <span className='text-lg font-medium'>Shubhzz</span>
                 <div className='flex items-center gap-4'>
                     <span
                         onClick={() => setTheme(theme === 'dark' ? 'light' : 'dark')}

@@ -1,21 +1,69 @@
-import { education, experience } from "@/types/main"
 import { useState } from "react"
 import { ViewAll } from "../projects/Projects"
 import SectionWrapper from "../SectionWrapper"
 import ExperienceCard from "./ExperienceCard"
 
-interface Props {
-    experienceData: experience[]
-    educationData: education[]
-}
-
-const Experiences = ({ experienceData, educationData }: Props) => {
+const Experiences = () => {
 
     const [show, setShow] = useState("Experience")
     const [viewAll, setViewAll] = useState(false)
 
-    const [experiences, setExperiences] = useState([...experienceData].reverse() as experience[])
-    const [educations, setEducations] = useState([...educationData].reverse() as education[])
+    const experiences = [
+        {
+      "company": "GladOwl Web Solutions Pvt. Ltd.",
+      "desc": [
+        "Assisted with design and development of project.",
+        "Worked on building the product from scratch and built multiple dashboards.",
+        "Skills: HTML · CSS · JavaScript · TailwindCSS · ReactJS · NodeJS · ExpressJS · MongoDB · REST APIs"
+      ],
+      "duration": "Jun 2024 - Present",
+      "position": "Fullstack Web Developer"
+    },
+    {
+      "company": "Self Employed",
+      "desc": [
+        "I am very passionate about improving my coding skills & developing applications & websites.",
+        "Working for myself to improve my skills. Love to build Full-Stack clones.",
+        "Skills: HTML · CSS · JavaScript · TailwindCSS · ReactJS · NodeJS · ExpressJS · MongoDB · REST APIs"
+      ],
+      "duration": "March 2024 - May 2024",
+      "position": "Web Developer"
+    },
+    {
+      "company": "Technical Coding and Research Innovation",
+      "desc": [
+        "Learned more about Frontend development and build one major and one minor project.",
+        "Skills: HTML · CSS · JavaScript · BootStrap · PHP · MySQL"
+      ],
+      "duration": "Sept 2023 - Feb 2024",
+      "position": "Frontend Web Developement Intern"
+    },
+    {
+      "company": "THE RESOLVED TECH",
+      "desc": [
+        "As a fresher, I got idea how web development works and hence I have contributed to build Multiple websites.",
+        "Skills: HTML · CSS · JavaScript · PHP · MySQL"
+      ],
+      "duration": "Nov 2022 - Jan 2023",
+      "position": "Web Developement Intern"
+    }
+    
+  ];
+    const educations = [
+        {
+      "degree": "B.E. Artificial Intelligence and Data Science",
+      "desc": [
+        "Cumulative GPA: 8.44/10"
+      ],
+      "duration": "2020 - 2024",
+      "institute": "Zeal College Of Engineering and Research"
+    },
+    {
+      "degree": "HSC (Computer Science)",
+      "duration": "2019 - 2020",
+      "institute": "Shree Shivaji Vidyamandir Aundh Pune"
+    }    
+  ];
 
     return (
         <SectionWrapper id="experience" className="min-h-screen">

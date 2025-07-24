@@ -17,15 +17,15 @@ interface Props {
 const HomePage = ({ data }: Props) => {
     return (
         <>
-            <Header logo={data.main.name} />
+            <Header />
             <Hero />
-            <Socials socials={data.socials} />
+            <Socials />
             <About />
             <Skills />
             <Projects />
-            <Experiences experienceData={data.experiences} educationData={data.educations} />
+            <Experiences />
             <Contact />
-            <Footer socials={data.socials} name={data.main.name} />
+            <Footer />
         </>
     )
 }

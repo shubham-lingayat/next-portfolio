@@ -8,8 +8,8 @@ type Data = {
 const transporter = nodemailer.createTransport({
     service: "gmail",
     auth: {
-        user: process.env.MAIL_FROM, // Your Gmail address
-        pass: process.env.GMAIL_APP_PASSWORD // Your Gmail app password
+        user: process.env.MAIL_FROM, 
+        pass: process.env.GMAIL_APP_PASSWORD 
     }
 });
 
