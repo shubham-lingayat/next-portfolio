@@ -1,5 +1,4 @@
 'use client';
-import { data } from "@/types/main";
 import Hero from "@/components/Hero";
 import About from "@/components/About";
 import Skills from "@/components/skills/Skills";
@@ -10,11 +9,7 @@ import Contact from "@/components/Contact";
 import Header from "./Header";
 import Footer from "./Footer";
 
-interface Props {
-    data: data,
-}
-
-const HomePage = ({ data }: Props) => {
+const HomePage = () => {
     return (
         <>
             <Header />

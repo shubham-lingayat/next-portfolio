@@ -6,7 +6,7 @@ import { BiLinkExternal } from "react-icons/bi";
 const About = () => {
 
     return (
-        <SectionWrapper id="about" className="min-h-[90vh] pt-12 bg-gradient-to-b from-white to-gray-100/20 dark:from-grey-900 dark:to-grey-900">
+        <SectionWrapper id="about" className="min-h-[90vh] pt-12 lg:pt-16 bg-gradient-to-b from-white to-gray-100/20 dark:from-grey-900 dark:to-grey-900">
             <h2 className="text-4xl text-center">About Me</h2>
 
             <div className="w-full lg:w-11/12 2xl:w-4/5 mt-2 lg:mt-20 mx-auto flex flex-col md:gap-4 lg:flex-row justify-between items-center">
@@ -19,7 +19,7 @@ const About = () => {
                     <div className="flex flex-col gap-2.5">
                         <p className="text-3xl font-semibold">Shubham Lingayat</p>
                         <p className='text-violet-800 w-fit rounded py-1 px-2 text-sm dark:text-violet-600 bg-violet-50 dark:bg-violet-900/10'>Full Stack Developer</p>
-                        <p className="text-sm md:text-base my-2 text-gray-600 dark:text-gray-300">Hello there! I&apos;m Shubham Lingayat, working as an Fullstack Developer at GladOwl Web Solutions Pvt. Ltd. I had completed my engineering by specializing in Artificial Intelligence and Data Science from Zeal College Of Engineering and Research Pune, with a burning passion for software development</p>
+                        <p className="text-sm md:text-base my-2 text-gray-600 dark:text-gray-300">An Executive Developer at GladOwl Web Solutions Pvt. Ltd., with a background in Artificial Intelligence and Data Science from Zeal College of Engineering and Research, Pune. Passionate about software development and currently focused on mastering the MERN stack—particularly React.js—for building seamless front-end experiences. Proficient in Python and JavaScript, with a strong interest in solving complex problems and developing robust applications. Also deeply interested in Machine Learning and Data Science, continually expanding skills to approach challenges from a broader perspective. Open to connecting, collaborating on exciting projects, and building something impactful together!</p>
                         <div className="flex items-center gap-4 md:mt-4">
                             <Link href='/Shubham-Lingayat-Fullstack-Developer.pdf' target="_blank" className="text-sm md:text-base bg-violet-600 dark:bg-violet-700 text-white w-fit rounded-md py-2 px-6 hover:shadow-xl transition-shadow">Resume</Link>
                             <Link href='tel:+919823960449' target="_blank" className="text-violet-600 flex items-center gap-1 hover:bg-violet-50 hover:dark:bg-violet-900/10 py-2 px-4 transition-colors rounded-md">Book a 1:1 call <BiLinkExternal /> </Link>
