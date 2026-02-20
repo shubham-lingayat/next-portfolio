@@ -100,7 +100,7 @@ const Hero = () => {
                         <br/>
                         <p className='text-center mb-0 pb-0'>
                             <span className='text-4xl lg:text-5xl pb-0 font-bold '>
-                            280+
+                            300+
                             </span>
                             <br/>
                             <span className='text-sm font-normal mb-0'>DSA Coding Qestions solved</span>
@@ -113,7 +113,7 @@ const Hero = () => {
                         <br/>
                         <p className='text-center mb-0 pb-0'>
                             <span className='text-4xl lg:text-5xl pb-0 font-bold '>
-                            25+
+                            20+
                             </span>
                             <br/>
                             <span className='text-sm font-normal mb-0'>Projects Completed</span>
@@ -126,7 +126,7 @@ const Hero = () => {
                         <br/>
                         <p className='text-center mb-0 pb-0'>
                             <span className='text-4xl lg:text-5xl pb-0 font-bold '>
-                            1.2 Year
+                            2 Years
                             </span>
                             <br/>
                             <span className='text-sm font-normal mb-0'>of Development Experinece</span>
